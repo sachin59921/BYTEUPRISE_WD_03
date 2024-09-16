@@ -9,8 +9,8 @@ Reset: Resets the stopwatch to zero, clearing any recorded lap times.
 Lap Times: Records and displays lap times as the stopwatch runs.
 
 # Technologies Used
-HTML: Provides the structure of the application, including the display, buttons, and lap time section.
-CSS: Styles the application with a clean, responsive layout.
+HTML: Provides the structure of the application, including the display, buttons, and lap time section.<br>
+CSS: Styles the application with a clean, responsive layout.<br>
 JavaScript: Implements the core stopwatch functionalities (start, pause, reset, and lap time recording).
 
 # How It Works
