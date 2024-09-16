@@ -23,6 +23,6 @@ Lap: The "Lap" button records the current time and adds it to the list of lap ti
 Clone the repository:
 bash
 Copy code
-git clone https://github.com/your-username/stopwatch-app.git
+git clone https://github.com/sachin59921/BYTEUPRISE_WD_03.git
 
 Open the index.html file in your browser to run the application.
